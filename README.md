@@ -1,7 +1,6 @@
+![image_alt](https://github.com/sandeepswain03/Golf-Website/blob/96aac60e3d17b715de155eb2c100ac3b2d0533a9/Golf.png)
+
 # GOLF Website
-
-A brief description or overview of what the website is about.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
